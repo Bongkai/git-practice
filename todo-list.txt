@@ -1,8 +1,9 @@
-学习 canvas
-学习 git
-学习 Echarts
-深入学习 ExpReg
-深入学习 webpack
-深入学习 React 原理
-学习 Underscore 架构
-学习 Lodash 架构
+study canvas
+study git
+study Echarts
+study ExpReg
+study webpack
+study React theory
+study Underscore code
+study Lodash code
+study jQuery code

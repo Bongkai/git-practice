@@ -1,2 +1,2 @@
-ѧϰ git
-ѧϰ vue
+study git
+study vue
