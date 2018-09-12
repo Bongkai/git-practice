@@ -6,4 +6,3 @@
 深入学习 React 原理
 学习 Underscore 架构
 学习 Lodash 架构
-学习 jQuery 源码
